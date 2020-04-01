@@ -1,0 +1,13 @@
+C:\Users\ekaterina.tatanova\source\repos\HelloApp\HelloApp\bin\Debug\netcoreapp3.1\HelloApp.exe
+C:\Users\ekaterina.tatanova\source\repos\HelloApp\HelloApp\bin\Debug\netcoreapp3.1\HelloApp.deps.json
+C:\Users\ekaterina.tatanova\source\repos\HelloApp\HelloApp\bin\Debug\netcoreapp3.1\HelloApp.runtimeconfig.json
+C:\Users\ekaterina.tatanova\source\repos\HelloApp\HelloApp\bin\Debug\netcoreapp3.1\HelloApp.runtimeconfig.dev.json
+C:\Users\ekaterina.tatanova\source\repos\HelloApp\HelloApp\bin\Debug\netcoreapp3.1\HelloApp.dll
+C:\Users\ekaterina.tatanova\source\repos\HelloApp\HelloApp\bin\Debug\netcoreapp3.1\HelloApp.pdb
+C:\Users\ekaterina.tatanova\source\repos\HelloApp\HelloApp\obj\Debug\netcoreapp3.1\HelloApp.csprojAssemblyReference.cache
+C:\Users\ekaterina.tatanova\source\repos\HelloApp\HelloApp\obj\Debug\netcoreapp3.1\HelloApp.csproj.CoreCompileInputs.cache
+C:\Users\ekaterina.tatanova\source\repos\HelloApp\HelloApp\obj\Debug\netcoreapp3.1\HelloApp.AssemblyInfoInputs.cache
+C:\Users\ekaterina.tatanova\source\repos\HelloApp\HelloApp\obj\Debug\netcoreapp3.1\HelloApp.AssemblyInfo.cs
+C:\Users\ekaterina.tatanova\source\repos\HelloApp\HelloApp\obj\Debug\netcoreapp3.1\HelloApp.dll
+C:\Users\ekaterina.tatanova\source\repos\HelloApp\HelloApp\obj\Debug\netcoreapp3.1\HelloApp.pdb
+C:\Users\ekaterina.tatanova\source\repos\HelloApp\HelloApp\obj\Debug\netcoreapp3.1\HelloApp.genruntimeconfig.cache
